@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l9cRkb5b5QjKdVI+EVOE9ojs6ytwFvzZASUBiU1UOYscg5F2X6G1HSd2owPo1fZfpLNTReJ/OVecYNLCS5RQHQ==",
+  "success": true,
+  "projectFilePath": "D:\\Uni\\2k2s\\Patterns\\Lab5\\Lec5Lib\\Lec5Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

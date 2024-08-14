@@ -1,0 +1,73 @@
+D:\ПП_Смелов\LabFour\LabFour\bin\Debug\net7.0\LabFour.exe
+D:\ПП_Смелов\LabFour\LabFour\bin\Debug\net7.0\LabFour.deps.json
+D:\ПП_Смелов\LabFour\LabFour\bin\Debug\net7.0\LabFour.runtimeconfig.json
+D:\ПП_Смелов\LabFour\LabFour\bin\Debug\net7.0\LabFour.dll
+D:\ПП_Смелов\LabFour\LabFour\bin\Debug\net7.0\LabFour.pdb
+D:\ПП_Смелов\LabFour\LabFour\obj\Debug\net7.0\LabFour.csproj.AssemblyReference.cache
+D:\ПП_Смелов\LabFour\LabFour\obj\Debug\net7.0\LabFour.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПП_Смелов\LabFour\LabFour\obj\Debug\net7.0\LabFour.AssemblyInfoInputs.cache
+D:\ПП_Смелов\LabFour\LabFour\obj\Debug\net7.0\LabFour.AssemblyInfo.cs
+D:\ПП_Смелов\LabFour\LabFour\obj\Debug\net7.0\LabFour.csproj.CoreCompileInputs.cache
+D:\ПП_Смелов\LabFour\LabFour\obj\Debug\net7.0\LabFour.dll
+D:\ПП_Смелов\LabFour\LabFour\obj\Debug\net7.0\refint\LabFour.dll
+D:\ПП_Смелов\LabFour\LabFour\obj\Debug\net7.0\LabFour.pdb
+D:\ПП_Смелов\LabFour\LabFour\obj\Debug\net7.0\LabFour.genruntimeconfig.cache
+D:\ПП_Смелов\LabFour\LabFour\obj\Debug\net7.0\ref\LabFour.dll
+D:\ПП_Смелов\LabFour\LabFour\bin\Debug\net7.0\Lec04LibN.dll
+D:\ПП_Смелов\LabFour\LabFour\bin\Debug\net7.0\Lec04LibN.pdb
+D:\ПП_Смелов\LabFour\LabFour\obj\Debug\net7.0\LabFour.csproj.CopyComplete
+C:\Users\User\Downloads\design-patterns-main\LabFour\LabFour\bin\Debug\net7.0\LabFour.exe
+C:\Users\User\Downloads\design-patterns-main\LabFour\LabFour\bin\Debug\net7.0\LabFour.deps.json
+C:\Users\User\Downloads\design-patterns-main\LabFour\LabFour\bin\Debug\net7.0\LabFour.runtimeconfig.json
+C:\Users\User\Downloads\design-patterns-main\LabFour\LabFour\bin\Debug\net7.0\LabFour.dll
+C:\Users\User\Downloads\design-patterns-main\LabFour\LabFour\bin\Debug\net7.0\LabFour.pdb
+C:\Users\User\Downloads\design-patterns-main\LabFour\LabFour\bin\Debug\net7.0\Lec04LibN.dll
+C:\Users\User\Downloads\design-patterns-main\LabFour\LabFour\bin\Debug\net7.0\Lec04LibN.pdb
+C:\Users\User\Downloads\design-patterns-main\LabFour\LabFour\obj\Debug\net7.0\LabFour.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\design-patterns-main\LabFour\LabFour\obj\Debug\net7.0\LabFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\design-patterns-main\LabFour\LabFour\obj\Debug\net7.0\LabFour.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\design-patterns-main\LabFour\LabFour\obj\Debug\net7.0\LabFour.AssemblyInfo.cs
+C:\Users\User\Downloads\design-patterns-main\LabFour\LabFour\obj\Debug\net7.0\LabFour.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\design-patterns-main\LabFour\LabFour\obj\Debug\net7.0\LabFour.csproj.CopyComplete
+C:\Users\User\Downloads\design-patterns-main\LabFour\LabFour\obj\Debug\net7.0\LabFour.dll
+C:\Users\User\Downloads\design-patterns-main\LabFour\LabFour\obj\Debug\net7.0\refint\LabFour.dll
+C:\Users\User\Downloads\design-patterns-main\LabFour\LabFour\obj\Debug\net7.0\LabFour.pdb
+C:\Users\User\Downloads\design-patterns-main\LabFour\LabFour\obj\Debug\net7.0\LabFour.genruntimeconfig.cache
+C:\Users\User\Downloads\design-patterns-main\LabFour\LabFour\obj\Debug\net7.0\ref\LabFour.dll
+C:\Лабы\Патерны проектирования\Лабы\LabFour\LabFour\bin\Debug\net7.0\LabFour.exe
+C:\Лабы\Патерны проектирования\Лабы\LabFour\LabFour\bin\Debug\net7.0\LabFour.deps.json
+C:\Лабы\Патерны проектирования\Лабы\LabFour\LabFour\bin\Debug\net7.0\LabFour.runtimeconfig.json
+C:\Лабы\Патерны проектирования\Лабы\LabFour\LabFour\bin\Debug\net7.0\LabFour.dll
+C:\Лабы\Патерны проектирования\Лабы\LabFour\LabFour\bin\Debug\net7.0\LabFour.pdb
+C:\Лабы\Патерны проектирования\Лабы\LabFour\LabFour\bin\Debug\net7.0\Lec04LibN.dll
+C:\Лабы\Патерны проектирования\Лабы\LabFour\LabFour\bin\Debug\net7.0\Lec04LibN.pdb
+C:\Лабы\Патерны проектирования\Лабы\LabFour\LabFour\obj\Debug\net7.0\LabFour.csproj.AssemblyReference.cache
+C:\Лабы\Патерны проектирования\Лабы\LabFour\LabFour\obj\Debug\net7.0\LabFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Лабы\Патерны проектирования\Лабы\LabFour\LabFour\obj\Debug\net7.0\LabFour.AssemblyInfoInputs.cache
+C:\Лабы\Патерны проектирования\Лабы\LabFour\LabFour\obj\Debug\net7.0\LabFour.AssemblyInfo.cs
+C:\Лабы\Патерны проектирования\Лабы\LabFour\LabFour\obj\Debug\net7.0\LabFour.csproj.CoreCompileInputs.cache
+C:\Лабы\Патерны проектирования\Лабы\LabFour\LabFour\obj\Debug\net7.0\LabFour.csproj.CopyComplete
+C:\Лабы\Патерны проектирования\Лабы\LabFour\LabFour\obj\Debug\net7.0\LabFour.dll
+C:\Лабы\Патерны проектирования\Лабы\LabFour\LabFour\obj\Debug\net7.0\refint\LabFour.dll
+C:\Лабы\Патерны проектирования\Лабы\LabFour\LabFour\obj\Debug\net7.0\LabFour.pdb
+C:\Лабы\Патерны проектирования\Лабы\LabFour\LabFour\obj\Debug\net7.0\LabFour.genruntimeconfig.cache
+C:\Лабы\Патерны проектирования\Лабы\LabFour\LabFour\obj\Debug\net7.0\ref\LabFour.dll
+D:\Uni\2k2s\Patterns\Lab4\LabFour\bin\Debug\net7.0\LabFour.exe
+D:\Uni\2k2s\Patterns\Lab4\LabFour\bin\Debug\net7.0\LabFour.deps.json
+D:\Uni\2k2s\Patterns\Lab4\LabFour\bin\Debug\net7.0\LabFour.runtimeconfig.json
+D:\Uni\2k2s\Patterns\Lab4\LabFour\bin\Debug\net7.0\LabFour.dll
+D:\Uni\2k2s\Patterns\Lab4\LabFour\bin\Debug\net7.0\LabFour.pdb
+D:\Uni\2k2s\Patterns\Lab4\LabFour\bin\Debug\net7.0\Lec04LibN.dll
+D:\Uni\2k2s\Patterns\Lab4\LabFour\bin\Debug\net7.0\Lec04LibN.pdb
+D:\Uni\2k2s\Patterns\Lab4\LabFour\obj\Debug\net7.0\LabFour.csproj.AssemblyReference.cache
+D:\Uni\2k2s\Patterns\Lab4\LabFour\obj\Debug\net7.0\LabFour.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\2k2s\Patterns\Lab4\LabFour\obj\Debug\net7.0\LabFour.AssemblyInfoInputs.cache
+D:\Uni\2k2s\Patterns\Lab4\LabFour\obj\Debug\net7.0\LabFour.AssemblyInfo.cs
+D:\Uni\2k2s\Patterns\Lab4\LabFour\obj\Debug\net7.0\LabFour.csproj.CoreCompileInputs.cache
+D:\Uni\2k2s\Patterns\Lab4\LabFour\obj\Debug\net7.0\LabFour.sourcelink.json
+D:\Uni\2k2s\Patterns\Lab4\LabFour\obj\Debug\net7.0\LabFour.csproj.Up2Date
+D:\Uni\2k2s\Patterns\Lab4\LabFour\obj\Debug\net7.0\LabFour.dll
+D:\Uni\2k2s\Patterns\Lab4\LabFour\obj\Debug\net7.0\refint\LabFour.dll
+D:\Uni\2k2s\Patterns\Lab4\LabFour\obj\Debug\net7.0\LabFour.pdb
+D:\Uni\2k2s\Patterns\Lab4\LabFour\obj\Debug\net7.0\LabFour.genruntimeconfig.cache
+D:\Uni\2k2s\Patterns\Lab4\LabFour\obj\Debug\net7.0\ref\LabFour.dll

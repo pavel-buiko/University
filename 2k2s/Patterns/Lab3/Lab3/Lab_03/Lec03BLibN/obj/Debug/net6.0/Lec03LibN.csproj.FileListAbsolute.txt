@@ -1,0 +1,12 @@
+D:\Uni\2k2s\Patterns\Lab3\Lab3\Lab_03\Lec03BLibN\bin\Debug\net6.0\Lec03LibN.deps.json
+D:\Uni\2k2s\Patterns\Lab3\Lab3\Lab_03\Lec03BLibN\bin\Debug\net6.0\Lec03LibN.dll
+D:\Uni\2k2s\Patterns\Lab3\Lab3\Lab_03\Lec03BLibN\bin\Debug\net6.0\Lec03LibN.pdb
+D:\Uni\2k2s\Patterns\Lab3\Lab3\Lab_03\Lec03BLibN\obj\Debug\net6.0\Lec03LibN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\2k2s\Patterns\Lab3\Lab3\Lab_03\Lec03BLibN\obj\Debug\net6.0\Lec03LibN.AssemblyInfoInputs.cache
+D:\Uni\2k2s\Patterns\Lab3\Lab3\Lab_03\Lec03BLibN\obj\Debug\net6.0\Lec03LibN.AssemblyInfo.cs
+D:\Uni\2k2s\Patterns\Lab3\Lab3\Lab_03\Lec03BLibN\obj\Debug\net6.0\Lec03LibN.csproj.CoreCompileInputs.cache
+D:\Uni\2k2s\Patterns\Lab3\Lab3\Lab_03\Lec03BLibN\obj\Debug\net6.0\Lec03LibN.sourcelink.json
+D:\Uni\2k2s\Patterns\Lab3\Lab3\Lab_03\Lec03BLibN\obj\Debug\net6.0\Lec03LibN.dll
+D:\Uni\2k2s\Patterns\Lab3\Lab3\Lab_03\Lec03BLibN\obj\Debug\net6.0\refint\Lec03LibN.dll
+D:\Uni\2k2s\Patterns\Lab3\Lab3\Lab_03\Lec03BLibN\obj\Debug\net6.0\Lec03LibN.pdb
+D:\Uni\2k2s\Patterns\Lab3\Lab3\Lab_03\Lec03BLibN\obj\Debug\net6.0\ref\Lec03LibN.dll

@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Uni\\2k2s\\Patterns\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9051CA16-7F62-4C51-9F20-FB39D87161BB}|lab5\\lab5.csproj|D:\\Uni\\2k2s\\Patterns\\Lab5\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051CA16-7F62-4C51-9F20-FB39D87161BB}|lab5\\lab5.csproj|solutionrelative:lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC62175A-0DEC-46A0-B73F-9483C1AF3351}|Lec5Lib\\Lec5Lib.csproj|D:\\Uni\\2k2s\\Patterns\\Lab5\\lec5lib\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC62175A-0DEC-46A0-B73F-9483C1AF3351}|Lec5Lib\\Lec5Lib.csproj|solutionrelative:lec5lib\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC62175A-0DEC-46A0-B73F-9483C1AF3351}|Lec5Lib\\Lec5Lib.csproj|D:\\Uni\\2k2s\\Patterns\\Lab5\\lec5lib\\decmd5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC62175A-0DEC-46A0-B73F-9483C1AF3351}|Lec5Lib\\Lec5Lib.csproj|solutionrelative:lec5lib\\decmd5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC62175A-0DEC-46A0-B73F-9483C1AF3351}|Lec5Lib\\Lec5Lib.csproj|d:\\uni\\2k2s\\patterns\\lab5\\lec5lib\\decrsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC62175A-0DEC-46A0-B73F-9483C1AF3351}|Lec5Lib\\Lec5Lib.csproj|solutionrelative:lec5lib\\decrsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC62175A-0DEC-46A0-B73F-9483C1AF3351}|Lec5Lib\\Lec5Lib.csproj|D:\\Uni\\2k2s\\Patterns\\Lab5\\lec5lib\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC62175A-0DEC-46A0-B73F-9483C1AF3351}|Lec5Lib\\Lec5Lib.csproj|solutionrelative:lec5lib\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC62175A-0DEC-46A0-B73F-9483C1AF3351}|Lec5Lib\\Lec5Lib.csproj|D:\\Uni\\2k2s\\Patterns\\Lab5\\lec5lib\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC62175A-0DEC-46A0-B73F-9483C1AF3351}|Lec5Lib\\Lec5Lib.csproj|solutionrelative:lec5lib\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC62175A-0DEC-46A0-B73F-9483C1AF3351}|Lec5Lib\\Lec5Lib.csproj|D:\\Uni\\2k2s\\Patterns\\Lab5\\lec5lib\\strwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC62175A-0DEC-46A0-B73F-9483C1AF3351}|Lec5Lib\\Lec5Lib.csproj|solutionrelative:lec5lib\\strwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC62175A-0DEC-46A0-B73F-9483C1AF3351}|Lec5Lib\\Lec5Lib.csproj|D:\\Uni\\2k2s\\Patterns\\Lab5\\lec5lib\\decsha512.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC62175A-0DEC-46A0-B73F-9483C1AF3351}|Lec5Lib\\Lec5Lib.csproj|solutionrelative:lec5lib\\decsha512.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC62175A-0DEC-46A0-B73F-9483C1AF3351}|Lec5Lib\\Lec5Lib.csproj|D:\\Uni\\2k2s\\Patterns\\Lab5\\lec5lib\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC62175A-0DEC-46A0-B73F-9483C1AF3351}|Lec5Lib\\Lec5Lib.csproj|solutionrelative:lec5lib\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DecSHA512.cs",
+              "DocumentMoniker": "D:\\Uni\\2k2s\\Patterns\\Lab5\\Lec5Lib\\DecSHA512.cs",
+              "RelativeDocumentMoniker": "Lec5Lib\\DecSHA512.cs",
+              "ToolTip": "D:\\Uni\\2k2s\\Patterns\\Lab5\\Lec5Lib\\DecSHA512.cs",
+              "RelativeToolTip": "Lec5Lib\\DecSHA512.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:53:44.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "D:\\Uni\\2k2s\\Patterns\\Lab5\\Lec5Lib\\FileWriter.cs",
+              "RelativeDocumentMoniker": "Lec5Lib\\FileWriter.cs",
+              "ToolTip": "D:\\Uni\\2k2s\\Patterns\\Lab5\\Lec5Lib\\FileWriter.cs",
+              "RelativeToolTip": "Lec5Lib\\FileWriter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:47:45.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StrWriter.cs",
+              "DocumentMoniker": "D:\\Uni\\2k2s\\Patterns\\Lab5\\Lec5Lib\\StrWriter.cs",
+              "RelativeDocumentMoniker": "Lec5Lib\\StrWriter.cs",
+              "ToolTip": "D:\\Uni\\2k2s\\Patterns\\Lab5\\Lec5Lib\\StrWriter.cs",
+              "RelativeToolTip": "Lec5Lib\\StrWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:47:41.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWriter.cs",
+              "DocumentMoniker": "D:\\Uni\\2k2s\\Patterns\\Lab5\\Lec5Lib\\IWriter.cs",
+              "RelativeDocumentMoniker": "Lec5Lib\\IWriter.cs",
+              "ToolTip": "D:\\Uni\\2k2s\\Patterns\\Lab5\\Lec5Lib\\IWriter.cs",
+              "RelativeToolTip": "Lec5Lib\\IWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:47:37.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Uni\\2k2s\\Patterns\\Lab5\\lab5\\Program.cs",
+              "RelativeDocumentMoniker": "lab5\\Program.cs",
+              "ToolTip": "D:\\Uni\\2k2s\\Patterns\\Lab5\\lab5\\Program.cs",
+              "RelativeToolTip": "lab5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAnwB8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:45:01.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DecRSA.cs",
+              "DocumentMoniker": "D:\\Uni\\2k2s\\Patterns\\Lab5\\Lec5Lib\\DecRSA.cs",
+              "RelativeDocumentMoniker": "Lec5Lib\\DecRSA.cs",
+              "ToolTip": "D:\\Uni\\2k2s\\Patterns\\Lab5\\Lec5Lib\\DecRSA.cs",
+              "RelativeToolTip": "Lec5Lib\\DecRSA.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:44:30.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "D:\\Uni\\2k2s\\Patterns\\Lab5\\Lec5Lib\\Decorator.cs",
+              "RelativeDocumentMoniker": "Lec5Lib\\Decorator.cs",
+              "ToolTip": "D:\\Uni\\2k2s\\Patterns\\Lab5\\Lec5Lib\\Decorator.cs",
+              "RelativeToolTip": "Lec5Lib\\Decorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:44:27.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DecMD5.cs",
+              "DocumentMoniker": "D:\\Uni\\2k2s\\Patterns\\Lab5\\Lec5Lib\\DecMD5.cs",
+              "RelativeDocumentMoniker": "Lec5Lib\\DecMD5.cs",
+              "ToolTip": "D:\\Uni\\2k2s\\Patterns\\Lab5\\Lec5Lib\\DecMD5.cs",
+              "RelativeToolTip": "Lec5Lib\\DecMD5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:44:18.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "D:\\Uni\\2k2s\\Patterns\\Lab5\\Lec5Lib\\Constant.cs",
+              "RelativeDocumentMoniker": "Lec5Lib\\Constant.cs",
+              "ToolTip": "D:\\Uni\\2k2s\\Patterns\\Lab5\\Lec5Lib\\Constant.cs",
+              "RelativeToolTip": "Lec5Lib\\Constant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:44:15.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
