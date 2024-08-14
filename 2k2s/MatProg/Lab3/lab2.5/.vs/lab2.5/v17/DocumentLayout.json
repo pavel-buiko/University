@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE44392C-3F07-471F-9F20-4CEB18173F99}|lab2.5\\lab2.5.vcxproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\lab2.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE44392C-3F07-471F-9F20-4CEB18173F99}|lab2.5\\lab2.5.vcxproj|solutionrelative:lab2.5\\lab2.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE44392C-3F07-471F-9F20-4CEB18173F99}|lab2.5\\lab2.5.vcxproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\CombiP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE44392C-3F07-471F-9F20-4CEB18173F99}|lab2.5\\lab2.5.vcxproj|solutionrelative:lab2.5\\CombiP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE44392C-3F07-471F-9F20-4CEB18173F99}|lab2.5\\lab2.5.vcxproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\Combi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE44392C-3F07-471F-9F20-4CEB18173F99}|lab2.5\\lab2.5.vcxproj|solutionrelative:lab2.5\\Combi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE44392C-3F07-471F-9F20-4CEB18173F99}|lab2.5\\lab2.5.vcxproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\Salesman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE44392C-3F07-471F-9F20-4CEB18173F99}|lab2.5\\lab2.5.vcxproj|solutionrelative:lab2.5\\Salesman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE44392C-3F07-471F-9F20-4CEB18173F99}|lab2.5\\lab2.5.vcxproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\CombiX.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE44392C-3F07-471F-9F20-4CEB18173F99}|lab2.5\\lab2.5.vcxproj|solutionrelative:lab2.5\\CombiX.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE44392C-3F07-471F-9F20-4CEB18173F99}|lab2.5\\lab2.5.vcxproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\CombiP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE44392C-3F07-471F-9F20-4CEB18173F99}|lab2.5\\lab2.5.vcxproj|solutionrelative:lab2.5\\CombiP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE44392C-3F07-471F-9F20-4CEB18173F99}|lab2.5\\lab2.5.vcxproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\Combi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE44392C-3F07-471F-9F20-4CEB18173F99}|lab2.5\\lab2.5.vcxproj|solutionrelative:lab2.5\\Combi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE44392C-3F07-471F-9F20-4CEB18173F99}|lab2.5\\lab2.5.vcxproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\Salesman.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE44392C-3F07-471F-9F20-4CEB18173F99}|lab2.5\\lab2.5.vcxproj|solutionrelative:lab2.5\\Salesman.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE44392C-3F07-471F-9F20-4CEB18173F99}|lab2.5\\lab2.5.vcxproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\CombiX.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE44392C-3F07-471F-9F20-4CEB18173F99}|lab2.5\\lab2.5.vcxproj|solutionrelative:lab2.5\\CombiX.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CombiX.h",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\CombiX.h",
+              "RelativeDocumentMoniker": "lab2.5\\CombiX.h",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\CombiX.h",
+              "RelativeToolTip": "lab2.5\\CombiX.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-29T07:52:21.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CombiP.h",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\CombiP.h",
+              "RelativeDocumentMoniker": "lab2.5\\CombiP.h",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\CombiP.h",
+              "RelativeToolTip": "lab2.5\\CombiP.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-29T07:52:13.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Combi.h",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\Combi.h",
+              "RelativeDocumentMoniker": "lab2.5\\Combi.h",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\Combi.h",
+              "RelativeToolTip": "lab2.5\\Combi.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-29T07:51:46.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Salesman.h",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\Salesman.h",
+              "RelativeDocumentMoniker": "lab2.5\\Salesman.h",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\Salesman.h",
+              "RelativeToolTip": "lab2.5\\Salesman.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-29T07:51:34.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Salesman.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\Salesman.cpp",
+              "RelativeDocumentMoniker": "lab2.5\\Salesman.cpp",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\Salesman.cpp",
+              "RelativeToolTip": "lab2.5\\Salesman.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T07:51:24.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CombiX.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\CombiX.cpp",
+              "RelativeDocumentMoniker": "lab2.5\\CombiX.cpp",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\CombiX.cpp",
+              "RelativeToolTip": "lab2.5\\CombiX.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T07:50:51.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CombiP.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\CombiP.cpp",
+              "RelativeDocumentMoniker": "lab2.5\\CombiP.cpp",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\CombiP.cpp",
+              "RelativeToolTip": "lab2.5\\CombiP.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T07:50:42.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Combi.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\Combi.cpp",
+              "RelativeDocumentMoniker": "lab2.5\\Combi.cpp",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\Combi.cpp",
+              "RelativeToolTip": "lab2.5\\Combi.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T07:50:30.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab2.5.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\lab2.5.cpp",
+              "RelativeDocumentMoniker": "lab2.5\\lab2.5.cpp",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\4sem\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\2\\lab2.5\\lab2.5\\lab2.5.cpp",
+              "RelativeToolTip": "lab2.5\\lab2.5.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T07:50:11.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

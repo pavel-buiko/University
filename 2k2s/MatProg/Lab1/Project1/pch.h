@@ -1,0 +1,9 @@
+#pragma once
+#include <iostream>
+#include <cstdlib>   
+#include "Auxil.h"
+#include <ctime>
+#include <locale>
+#include <ctime>
+#include <stdio.h>
+#include "factorial.h"

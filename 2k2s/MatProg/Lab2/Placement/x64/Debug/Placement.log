@@ -1,0 +1,12 @@
+﻿  PlacementCombi.cpp
+  Source.cpp
+  Создание кода...
+PlacementCombi.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl combi::permutation::permutation(short)" (??0permutation@combi@@QEAA@F@Z) в функции "public: __cdecl combi::accomodation::accomodation(short,short)" (??0accomodation@combi@@QEAA@FF@Z).
+PlacementCombi.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl combi::permutation::reset(void)" (?reset@permutation@combi@@QEAAXXZ) в функции "public: short __cdecl combi::accomodation::getnext(void)" (?getnext@accomodation@combi@@QEAAFXZ).
+PlacementCombi.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __int64 __cdecl combi::permutation::getnext(void)" (?getnext@permutation@combi@@QEAA_JXZ) в функции "public: short __cdecl combi::accomodation::getnext(void)" (?getnext@accomodation@combi@@QEAAFXZ).
+PlacementCombi.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: short __cdecl combi::permutation::ntx(short)" (?ntx@permutation@combi@@QEAAFF@Z) в функции "public: short __cdecl combi::accomodation::getfirst(void)" (?getfirst@accomodation@combi@@QEAAFXZ).
+PlacementCombi.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl combi::xcombination::xcombination(short,short)" (??0xcombination@combi@@QEAA@FF@Z) в функции "public: __cdecl combi::accomodation::accomodation(short,short)" (??0accomodation@combi@@QEAA@FF@Z).
+PlacementCombi.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl combi::xcombination::reset(void)" (?reset@xcombination@combi@@QEAAXXZ) в функции "public: void __cdecl combi::accomodation::reset(void)" (?reset@accomodation@combi@@QEAAXXZ).
+PlacementCombi.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: short __cdecl combi::xcombination::getfirst(void)" (?getfirst@xcombination@combi@@QEAAFXZ) в функции "public: void __cdecl combi::accomodation::reset(void)" (?reset@accomodation@combi@@QEAAXXZ).
+PlacementCombi.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: short __cdecl combi::xcombination::getnext(void)" (?getnext@xcombination@combi@@QEAAFXZ) в функции "public: short __cdecl combi::accomodation::getnext(void)" (?getnext@accomodation@combi@@QEAAFXZ).
+D:\Uni\2k2s\Patterns\Placement\x64\Debug\Placement.exe : fatal error LNK1120: неразрешенных внешних элементов: 8

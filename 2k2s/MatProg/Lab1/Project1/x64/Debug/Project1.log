@@ -1,0 +1,9 @@
+﻿  Source.cpp
+  Auxil.cpp
+  factorial.cpp
+  pch.cpp
+  Создание кода...
+D:\Uni\2k2s\MatProg\Lab1\Project1\factorial.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "/factorial.cpp")
+  
+  Project1.vcxproj -> D:\Uni\2k2s\MatProg\Lab1\Project1\x64\Debug\Project1.exe

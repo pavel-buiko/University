@@ -1,0 +1,7 @@
+﻿  lab2.5.cpp
+D:\Uni\2k2s\MatProg\Lab3\lab2.5\lab2.5\lab2.5.cpp(7,1): warning C4005: INF: изменение макроопределения
+  D:\Uni\2k2s\MatProg\Lab3\lab2.5\lab2.5\Salesman.h(4,1):
+  см. предыдущее определение "INF"
+  
+D:\Uni\2k2s\MatProg\Lab3\lab2.5\lab2.5\lab2.5.cpp(11,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab2.5.vcxproj -> D:\Uni\2k2s\MatProg\Lab3\lab2.5\x64\Debug\lab2.5.exe

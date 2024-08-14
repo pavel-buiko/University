@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Uni\2k2s\MatProg\Lab4\TestProject\Source.cpp(30,70): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  TestProject.vcxproj -> D:\Uni\2k2s\MatProg\Lab4\TestProject\x64\Debug\TestProject.exe
