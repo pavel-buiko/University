@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OikiaVita-v.1", "OikiaVita-v.1.csproj", "{4E3DE1D9-5F30-4DFA-867A-BA7E82DAA4AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E3DE1D9-5F30-4DFA-867A-BA7E82DAA4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3DE1D9-5F30-4DFA-867A-BA7E82DAA4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3DE1D9-5F30-4DFA-867A-BA7E82DAA4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3DE1D9-5F30-4DFA-867A-BA7E82DAA4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E717420-C558-4D35-AD86-97517A8EDFB7}
+	EndGlobalSection
+EndGlobal
